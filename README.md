@@ -2,9 +2,6 @@
 
  A simple Pokémon catalogue, built with [React](https://reactjs.org/), [Material-UI](https://material-ui.com/) and [PokéAPI](https://pokeapi.co/).
 
-## Links
-
- Watch it in action [here](https://pokedex-react-mui.netlify.app/)
 
 ## Features
 - View basic details of each Pokémon
